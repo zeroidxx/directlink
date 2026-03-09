@@ -1,0 +1,4 @@
+-- Universal Aim Assist by @zeroidxx 
+-- join https://discord.gg/mhhP5a4buD
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zeroidxx/1337aim/refs/heads/main/universalaimhack.lua'))()
